@@ -11,7 +11,7 @@ For feature extraction, the model uses ResNet50 pre-trained on ImageNet dataset 
 I have used a normal RNN(LSTM) as decoder.
 
 ### Model Architecture:
-<a href="https://ibb.co/pXMdGKk"><img src="https://i.ibb.co/C0YQN9S/model.png" alt="model" border="0"></a><br /> </a><br />
+<a href="https://ibb.co/pXMdGKk"><img src="https://github.com/PraffulVarshney/Stable-Diffusion---Image-to-Prompt/blob/main/model.png" alt="model" border="0"></a><br /> </a><br />
 
 
 ## References
